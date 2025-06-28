@@ -47,6 +47,8 @@ Install the required library:
 
 - View recorded keystrokes in key_log.txt
 
+  📝 Example Output
+
 
 
 
