@@ -26,6 +26,13 @@ Do not use this tool for spying, monitoring others without consent, or any illeg
 
 🔧 Requirements
 
+- Python 3.x
+- `pynput` library
+
+Install the required library:
+```bash
+pip install pynput
+
 
 
 
