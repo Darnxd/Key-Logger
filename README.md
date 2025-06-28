@@ -24,6 +24,8 @@ Do not use this tool for spying, monitoring others without consent, or any illeg
 - Runs in the terminal with visible prompts
 - Stops logging when you press the `Esc` key
 
+🔧 Requirements
+
 
 
 
