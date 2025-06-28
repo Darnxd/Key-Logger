@@ -31,7 +31,13 @@ Do not use this tool for spying, monitoring others without consent, or any illeg
 
 Install the required library:
 
-pip install pynput
+        pip install pynput
+
+▶️ How to Run
+
+- Save the script as keylogger.py
+
+- Run it:
 
 
 
