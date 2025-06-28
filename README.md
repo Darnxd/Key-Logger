@@ -66,6 +66,12 @@ Hello[space]world[enter]123!
 
 - Writes every keystroke to key_log.txt in real-time
 
+👤 Author
+
+Gautam Singh
+
+Cybersecurity & Python Enthusiast
+
 
 
 
