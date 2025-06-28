@@ -12,6 +12,8 @@ Personal use on your own machine
 
 Learning how keyboard event listeners work
 
+Ethical cybersecurity experiments
+
 
 
 
