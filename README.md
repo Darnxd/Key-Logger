@@ -19,6 +19,12 @@ Do not use this tool for spying, monitoring others without consent, or any illeg
 
 🧠 Features
 
+- Records all keystrokes, including special keys (e.g., Enter, Space, Backspace)
+- Saves logs to a `.txt` file
+- Runs in the terminal with visible prompts
+- Stops logging when you press the `Esc` key
+
+
 
 
 
