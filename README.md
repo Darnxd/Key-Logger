@@ -39,7 +39,7 @@ Install the required library:
 
 - Run it:
 
-            python keylogger.py
+            python3 project5.py
 
 - Start typing anywhere (terminal, browser, Notepad, etc.)
 
