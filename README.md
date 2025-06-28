@@ -41,6 +41,12 @@ Install the required library:
 
             python keylogger.py
 
+- Start typing anywhere (terminal, browser, Notepad, etc.)
+
+- Press Esc to stop the logger
+
+- View recorded keystrokes in key_log.txt
+
 
 
 
