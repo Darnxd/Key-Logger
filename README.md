@@ -53,7 +53,20 @@ Hello world
 123!
 
 Your key_log.txt may look like:
+
 Hello[space]world[enter]123!
+
+🔄 How It Works
+
+- Uses pynput.keyboard.Listener to detect key presses
+
+- Normal characters are logged as-is
+
+- Special keys are logged as [key_name]
+
+- Writes every keystroke to key_log.txt in real-time
+
+
 
 
 
