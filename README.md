@@ -39,6 +39,8 @@ Install the required library:
 
 - Run it:
 
+            python keylogger.py
+
 
 
 
