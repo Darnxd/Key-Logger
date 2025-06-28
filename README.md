@@ -49,6 +49,12 @@ Install the required library:
 
   📝 Example Output
 
+Hello world
+123!
+
+Your key_log.txt may look like:
+Hello[space]world[enter]123!
+
 
 
 
