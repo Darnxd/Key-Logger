@@ -10,6 +10,8 @@ This is a **basic keylogger** built using Python’s `pynput` library for **educ
 
 Personal use on your own machine
 
+Learning how keyboard event listeners work
+
 
 
 
