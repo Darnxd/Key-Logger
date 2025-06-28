@@ -17,6 +17,9 @@ Ethical cybersecurity experiments
 
 Do not use this tool for spying, monitoring others without consent, or any illegal activity.
 
+🧠 Features
+
+
 
 
 
