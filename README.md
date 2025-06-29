@@ -8,9 +8,9 @@ This is a **basic keylogger** built using Python’s `pynput` library for **educ
 
 ⚠️ This tool is intended strictly for:
 
-- Personal use on your own machine
+- Personal use on your own machine.
 
-- Learning how keyboard event listeners work
+- Learning how keyboard event listeners work.
 
 - Ethical cybersecurity experiments.
 
@@ -43,7 +43,7 @@ Install the required library:
 
 - Start typing anywhere (terminal, browser, Notepad, etc.)
 
-- Press Esc to stop the logger
+- Press Esc to stop the logger.
 
 - View recorded keystrokes in key_log.txt
 
@@ -58,13 +58,13 @@ Hello[space]world[enter]123!
 
 🔄 How It Works
 
-- Uses pynput.keyboard.Listener to detect key presses
+- Uses pynput.keyboard.Listener to detect key presses.
 
-- Normal characters are logged as-is
+- Normal characters are logged as-is.
 
-- Special keys are logged as [key_name]
+- Special keys are logged as [key_name].
 
-- Writes every keystroke to key_log.txt in real-time
+- Writes every keystroke to key_log.txt in real-time.
 
 👤 Author
 
